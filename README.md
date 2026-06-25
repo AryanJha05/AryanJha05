@@ -1,5 +1,20 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>Hi, I'm **Aryan Jha**, a B.Tech Computer Science (AI & ML) student passionate about software development and building impactful solutions.<br><br>* 💻 Interested in **Software Development, AI & Machine Learning, and Full-Stack Web Development**<br>* ☕ Strong foundation in **Java**, **Data Structures & Algorithms**, and **Object-Oriented Programming**<br>* 🚀 Enjoy building real-world projects, exploring new technologies, and creating clean, user-friendly applications<br>* 📚 Continuously learning **System Design, Backend Development, Cloud Technologies, and AI**<br>* 🤝 Open to collaborating on innovative projects and contributing to open-source<br>* 🎯 Aspiring Software Engineer focused on writing efficient, scalable, and maintainable code<br>
+# 👋 Hello, I'm Aryan Jha
+
+> *"Code with purpose. Learn without limits."* 🚀
+
+### 👨‍💻 About Me
+
+I'm a **B.Tech Computer Science (AI & ML)** student passionate about building impactful software and solving real-world problems through technology.
+
+* 💻 Interested in **Software Development, AI & Machine Learning, Full-Stack Development, and Cloud Technologies**
+* ☕ Skilled in **Java, Python, JavaScript, Data Structures & Algorithms, and Object-Oriented Programming**
+* 🚀 Love building scalable applications, experimenting with new technologies, and creating intuitive user experiences
+* 📚 Currently exploring **System Design, Backend Development, Cloud Computing, and AI**
+* 🌱 Always learning, improving, and contributing to meaningful projects
+* 🤝 Open to collaborations, open-source contributions, and exciting opportunities
+* 🎯 Aspiring Software Engineer focused on writing clean, efficient, and scalable code
+
+---
 
 
 ## 🌐 Socials:
